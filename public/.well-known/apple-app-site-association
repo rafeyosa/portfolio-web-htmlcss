@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "6751693232.com.velo.orbitplus.stg",
+                "paths": [
+                    "/*"
+                ]
+            }
+        ]
+    }
+}
