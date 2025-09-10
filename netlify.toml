@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "./public/.well-known/*"
-  to = "/.well-known/:splat"
-  status = 200
